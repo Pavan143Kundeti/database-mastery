@@ -6,6 +6,7 @@ A comprehensive guide to SQL and database concepts, written in simple, clear lan
 
 ### SQL
 - [01 - Introduction to SQL](sql/01-introduction-to-sql.md)
+- [02 - SQL Data Types](sql/02-sql-data-types.md)
 
 ## 🎯 About This Repository
 
