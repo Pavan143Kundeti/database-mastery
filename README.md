@@ -13,6 +13,7 @@ A comprehensive guide to SQL and database concepts, written in simple, clear lan
 - [06 - CREATE TABLE](sql/06-create-table.md)
 - [07 - Queries & Operations (SELECT, INSERT, UPDATE, DELETE, WHERE, Aliases)](sql/07-queries-and-operations.md)
 - [08 - Joins & Functions (INNER, LEFT, RIGHT, FULL, NATURAL, CROSS, Date, String)](sql/08-joins-and-functions.md)
+- [09 - Constraints & Aggregate Functions (NOT NULL, PRIMARY KEY, COUNT, SUM, MAX, MIN, AVG)](sql/09-constraints-and-aggregate-functions.md)
 
 ## 🎯 About This Repository
 
