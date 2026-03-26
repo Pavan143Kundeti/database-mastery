@@ -12,6 +12,7 @@ A comprehensive guide to SQL and database concepts, written in simple, clear lan
 - [05 - Database Operations](sql/05-database-operations.md)
 - [06 - CREATE TABLE](sql/06-create-table.md)
 - [07 - Queries & Operations (SELECT, INSERT, UPDATE, DELETE, WHERE, Aliases)](sql/07-queries-and-operations.md)
+- [08 - Joins & Functions (INNER, LEFT, RIGHT, FULL, NATURAL, CROSS, Date, String)](sql/08-joins-and-functions.md)
 
 ## 🎯 About This Repository
 
