@@ -15,6 +15,7 @@ A comprehensive guide to SQL and database concepts, written in simple, clear lan
 - [08 - Joins & Functions (INNER, LEFT, RIGHT, FULL, NATURAL, CROSS, Date, String)](sql/08-joins-and-functions.md)
 - [09 - Constraints & Aggregate Functions (NOT NULL, PRIMARY KEY, COUNT, SUM, MAX, MIN, AVG)](sql/09-constraints-and-aggregate-functions.md)
 - [10 - Advanced SQL Topics (Subqueries, Window Functions, Stored Procedures, Triggers, Performance Tuning, Transactions)](sql/10-advanced-sql-topics.md)
+- [11 - Database Design & Security (ER Model, Normalization, Keys, SQL Injection, Encryption, Backup, ORM)](sql/11-database-design-and-security.md)
 
 ## 🎯 About This Repository
 
