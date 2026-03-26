@@ -5,7 +5,7 @@ A comprehensive guide to SQL and database concepts, written in simple, clear lan
 ## 📚 Contents
 
 ### SQL
-- Coming soon...
+- [01 - Introduction to SQL](sql/01-introduction-to-sql.md)
 
 ## 🎯 About This Repository
 
