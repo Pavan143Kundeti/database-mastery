@@ -9,6 +9,8 @@ A comprehensive guide to SQL and database concepts, written in simple, clear lan
 - [02 - SQL Data Types](sql/02-sql-data-types.md)
 - [03 - SQL Operators](sql/03-sql-operators.md)
 - [04 - SQL Commands (DDL, DQL, DML, DCL, TCL)](sql/04-sql-commands.md)
+- [05 - Database Operations](sql/05-database-operations.md)
+- [06 - CREATE TABLE](sql/06-create-table.md)
 
 ## 🎯 About This Repository
 
