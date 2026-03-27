@@ -19,6 +19,8 @@ A comprehensive guide to SQL and database concepts, written in simple, clear lan
 
 ### DBMS
 - [01 - Basics of DBMS](dbms/01-basics-of-dbms.md)
+- [02 - ER & Relational Model](dbms/02-er-and-relational-model.md)
+- [03 - Database & Table Operations](dbms/03-database-and-table-operations.md)
 
 ## 🎯 About This Repository
 
