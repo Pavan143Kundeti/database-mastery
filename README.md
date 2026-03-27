@@ -17,6 +17,9 @@ A comprehensive guide to SQL and database concepts, written in simple, clear lan
 - [10 - Advanced SQL Topics (Subqueries, Window Functions, Stored Procedures, Triggers, Performance Tuning, Transactions)](sql/10-advanced-sql-topics.md)
 - [11 - Database Design & Security (ER Model, Normalization, Keys, SQL Injection, Encryption, Backup, ORM)](sql/11-database-design-and-security.md)
 
+### DBMS
+- [01 - Basics of DBMS](dbms/01-basics-of-dbms.md)
+
 ## 🎯 About This Repository
 
 This repository contains structured notes, examples, and practice materials for learning SQL and database management. All content is organized in a step-by-step format with:
