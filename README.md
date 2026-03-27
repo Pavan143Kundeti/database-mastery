@@ -26,6 +26,7 @@ A comprehensive guide to SQL and database concepts, written in simple, clear lan
 
 ### MySQL
 - [01 - Introduction to MySQL](mysql/01-introduction-to-mysql.md)
+- [02 - MySQL SQL Commands](mysql/02-mysql-sql-commands.md)
 
 ## 🎯 About This Repository
 
