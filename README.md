@@ -31,6 +31,7 @@ A comprehensive guide to SQL and database concepts, written in simple, clear lan
 
 ### PostgreSQL
 - [01 - Introduction to PostgreSQL](postgresql/01-introduction-to-postgresql.md)
+- [02 - PostgreSQL Database Operations](postgresql/02-postgresql-database-operations.md)
 
 ## 🎯 About This Repository
 
