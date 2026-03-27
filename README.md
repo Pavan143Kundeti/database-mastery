@@ -22,6 +22,7 @@ A comprehensive guide to SQL and database concepts, written in simple, clear lan
 - [02 - ER & Relational Model](dbms/02-er-and-relational-model.md)
 - [03 - Database & Table Operations](dbms/03-database-and-table-operations.md)
 - [04 - Functional Dependencies & Normalization](dbms/04-functional-dependencies-and-normalization.md)
+- [05 - Transactions & Concurrency Control](dbms/05-transactions-and-concurrency-control.md)
 
 ## 🎯 About This Repository
 
