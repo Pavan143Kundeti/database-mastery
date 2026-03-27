@@ -12,6 +12,36 @@
 
 ---
 
+## Important Terms (Quick Reference)
+
+| Term | What it means | SQL Equivalent |
+|------|---------------|----------------|
+| **Database** | Container for collections | Database |
+| **Collection** | Group of documents | Table |
+| **Document** | Single record (JSON format) | Row |
+| **Field** | Single piece of data | Column |
+| **_id** | Unique identifier (automatic) | Primary Key |
+
+**Example Document:**
+```json
+{
+  "_id": "507f1f77bcf86cd799439011",
+  "title": "My Post",
+  "author": "John",
+  "likes": 10
+}
+```
+
+**In this document:**
+- `_id`, `title`, `author`, `likes` are **fields**
+- The whole thing is a **document**
+- It's stored in a **collection** (like "posts")
+- The collection is inside a **database** (like "blog")
+
+**Note:** For detailed explanations, see the first file: Introduction to MongoDB
+
+---
+
 ## Before You Start
 
 **Make sure:**
