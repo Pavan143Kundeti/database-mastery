@@ -24,6 +24,9 @@ A comprehensive guide to SQL and database concepts, written in simple, clear lan
 - [04 - Functional Dependencies & Normalization](dbms/04-functional-dependencies-and-normalization.md)
 - [05 - Transactions & Concurrency Control](dbms/05-transactions-and-concurrency-control.md)
 
+### MySQL
+- [01 - Introduction to MySQL](mysql/01-introduction-to-mysql.md)
+
 ## 🎯 About This Repository
 
 This repository contains structured notes, examples, and practice materials for learning SQL and database management. All content is organized in a step-by-step format with:
