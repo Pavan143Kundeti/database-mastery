@@ -29,6 +29,9 @@ A comprehensive guide to SQL and database concepts, written in simple, clear lan
 - [02 - MySQL SQL Commands](mysql/02-mysql-sql-commands.md)
 - [03 - MySQL Database Operations](mysql/03-mysql-database-operations.md)
 
+### PostgreSQL
+- [01 - Introduction to PostgreSQL](postgresql/01-introduction-to-postgresql.md)
+
 ## 🎯 About This Repository
 
 This repository contains structured notes, examples, and practice materials for learning SQL and database management. All content is organized in a step-by-step format with:
